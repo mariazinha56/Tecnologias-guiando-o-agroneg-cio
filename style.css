@@ -36,5 +36,10 @@ header{
     margin: 12px;
     border-radius: 12px;
  }
+ .cinza-nao{
+    display: grid;
+     grid-column: 41% 18% 41%;
+     text-align: center;
+ }
 }
 
