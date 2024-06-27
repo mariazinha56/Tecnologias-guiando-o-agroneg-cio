@@ -27,7 +27,7 @@ header{
 
     .posicao{
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 41% 18% 41%;
         text-align: center;
     }
 }
