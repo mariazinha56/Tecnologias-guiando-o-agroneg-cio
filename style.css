@@ -30,6 +30,11 @@ header{
         grid-template-columns: 41% 18% 41%;
         text-align: center;
     }
-    
+ .cinza-nao{
+    background-color: lightgray;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 12px;
+ }
 }
 
