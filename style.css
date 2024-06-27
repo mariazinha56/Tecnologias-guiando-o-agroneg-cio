@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@396&display=swap');
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(255, 255, 255);
 }
 
@@ -40,3 +40,9 @@ header{
  
 }
 
+.TIT{
+    font-family: "Libre Franklin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 396;
+  font-style: normal;
+}
