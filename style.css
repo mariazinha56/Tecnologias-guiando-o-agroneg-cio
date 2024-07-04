@@ -50,3 +50,8 @@ header{
 .verde{
     color: greenyellow;
 }
+
+.verde{
+    text-align: center;
+    margin: 12px;
+}
