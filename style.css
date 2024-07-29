@@ -50,7 +50,9 @@ header{
 .verde{
     color: greenyellow;
 }
-
+.verde:hover{
+    color: red;
+}
 .verde{
     text-align: center;
     margin: 25px;
